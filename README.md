@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Here my (poor) stats:
+## Here's my (poor) stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebaldissera&show_icons=true&theme=tokyonight)
 
-## Here what I listen to
+## Here's what I listen to
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=cljy04orakrav4e73iwihejku)](https://open.spotify.com/user/cljy04orakrav4e73iwihejku)
 
