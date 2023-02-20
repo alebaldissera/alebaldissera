@@ -1,11 +1,12 @@
 # Hey, I'm Alessandro
 
-![My first astrophotography stack](/photos/Eagle.jpg "Milky Way in the Eagle constellation")
-
 I'm a CS student at University of Padua. I'm currently learning software engineering and some strange math.
 In my free time I enjoy taking photos, especially astrophotography, playing video games and read books about science. Open source enjoyer.
 
 Fun fact: I keep a PC with Windows 95 and one with Windows XP just in case.
+
+Here my first astrofotography stack:
+![My first astrophotography stack](/photos/Eagle.jpg "Milky Way in the Eagle constellation")
 
 ## Technology stack
 
