@@ -3,11 +3,6 @@
 I'm a CS student at University of Padua. I'm currently learning software engineering and some strange math.
 In my free time I enjoy taking photos, especially astrophotography, playing video games and read books about science. Open source enjoyer.
 
-Fun fact: I keep a PC with Windows 95 and one with Windows XP just in case.
-
-Here my first astrofotography stack:
-![My first astrophotography stack](/photos/Eagle.jpg "Milky Way in the Eagle constellation")
-
 ## Technology stack
 
 Here some technology I confident with:
@@ -45,28 +40,3 @@ Something I'm interested in:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 And lots of other things I hope find some time for.
-
-<!--
-**alebaldissera/alebaldissera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Here's my (poor) stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebaldissera&show_icons=true&theme=tokyonight)
-
-## Here's what I listen to
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=cljy04orakrav4e73iwihejku)](https://open.spotify.com/user/cljy04orakrav4e73iwihejku)
-
-
